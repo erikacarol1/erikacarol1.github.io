@@ -56,12 +56,13 @@
   #bio-container #welcome-text {
     font-weight: bold;
   }
-  
+ 
   #bio-image {
-    width: 175px;
-    height: 175px;
-    border-radius: 0%;
-    margin-bottom: 25px;
+    width: 100%;
+    max-width: 400px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50%;
   }
   
   #social-container {
