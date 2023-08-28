@@ -58,9 +58,10 @@
   }
  
   #bio-image {
-    width: 100px;
-    height: 100px;
-    object-fit: fill;
+    width: auto;
+    height: 100%;
+    aspect-ratio: 1;    
+    object-fit: cover; 
   }
   
   #social-container {
