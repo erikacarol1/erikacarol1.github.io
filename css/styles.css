@@ -8,12 +8,12 @@
   
   /* Variables */
   :root {
-    --main-color: #54B689;
+    --main-color: #8A58B6; /* Roxo */
     --main-text-color: #FFF;
     --border-color: #999;
-    --bio-bg-color: #1E2A3A;
-    --bio-border-color: #293544;
-    --about-bg-color: #111821;
+    --bio-bg-color: #A88CD3; /* Lilás */
+    --bio-border-color: #B69BDB; /* Lilás mais claro */
+    --about-bg-color: #AB79E5; /* Roxo mais claro */
   }
   
   /* General */
